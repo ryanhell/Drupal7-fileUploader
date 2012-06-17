@@ -1,0 +1,21 @@
+Drupal 7 File Upload Module
+
+Objectives:
+The objective of this module is not to create the first file uploader for Drupal 7. Instead, this module 
+will demonstrate some web skills and teach the participant a bit about the Drupal custom module development
+scene within GitHub.
+
+What is needed:
+The current client is an educational institution. They have a simple form that needs to be filled out in order to get
+new students enrolled. This form exist in an application. Ideally the application form could be hosted on their 
+website (Drupal 7), then signed and returned via a web based file uploader.
+
+Languages Needed:
+PHP5, HTML, and possibly a touch of MySQL
+
+Timeline:
+no immediate hurries, just for fun
+
+Participants
+Ryan Michael Hell
+ryan.h@nwtronix.com
